@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik:ital@1&display=swap");
+button,
+button :focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.font-baloon {
+    font-family: "baloon thambi 2", cursive;
+}
+
+.font-raleway {
+    font-family: "raleway thambi 2", cursive;
+}
+
+.font-rubik {
+    font-family: "rubik thambi 2", cursive;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.color-primary {
+    color: rgb(0, 17, 255);
+}
+
+.color-second {
+    color: lightblue;
+}
+
+.color-yellow {
+    color: yellow;
+}
+
+.color-primary-bg {
+    background-color: rgba(25, 0, 255, 0.459);
+}
+
+.color-second-bg {
+    background-color: lightblue;
+}
